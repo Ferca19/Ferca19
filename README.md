@@ -12,4 +12,8 @@ Desarrollador Full Stack con foco en Backend. Construyo aplicaciones web y APIs 
 ## Formación
 
 - Analista en Sistemas
-- Estudiante de 5.º año de Ingeniería de Sistemas de Información  
+- Estudiante de 5.º año de Ingeniería de Sistemas de Información
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/fernando-cagliero/)
